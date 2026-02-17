@@ -480,7 +480,7 @@ img {
 
 /* Page Header */
 .page-header {
-    background: linear-gradient(rgba(10, 25, 47, 0.85), rgba(10, 25, 47, 0.9)), url('https://placehold.co/1920x400/0a192f/ffd700?text=Seagull+Services');
+    background: linear-gradient(rgba(10, 25, 47, 0.85), rgba(10, 25, 47, 0.9)), url('https://placehold.co/1920x400/0a192f/ffd700?text=.');
     background-size: cover;
     background-position: center;
     color: var(--text-light);
