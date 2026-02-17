@@ -830,7 +830,7 @@ img {
     color: var(--secondary-gold);
     font-size: 1.6rem;
     margin-bottom: 25px;
-    position: relative;
+/*    position: relative;*/
     padding-bottom: 10px;
 }
 
